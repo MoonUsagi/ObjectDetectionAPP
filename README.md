@@ -10,3 +10,5 @@ Bulit on 2022/08 by Fred Liu
   
 目前是初期測試版本，只完成了Faster RCNN,SSD,YOLOv2.YOLOv4  
 It is currently the alpha test version, and only completed Faster RCNN, SSD, YOLOv2.YOLOv4
+
+![image](https://github.com/MoonUsagi/ObjectDetectionAPP/blob/main/OBJR01.JPG)
